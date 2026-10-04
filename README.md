@@ -185,7 +185,8 @@ streamlit run app.py
 
 ## 🖥️ Application Preview
 
-Add screenshots of the application here.
+<img width="1287" height="867" alt="Home_screen" src="https://github.com/user-attachments/assets/cbf3cd3a-009f-4280-8e47-d43775b41836" />
+
 
 ### Input Screen
 
@@ -193,7 +194,8 @@ Add screenshots of the application here.
 
 ### Prediction Result
 
-*Add your prediction-result screenshot here.*
+<img width="1117" height="896" alt="Prediction_result" src="https://github.com/user-attachments/assets/3695f707-cc6f-437a-be28-f54172038a33" />
+
 
 ---
 
