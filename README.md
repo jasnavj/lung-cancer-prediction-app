@@ -185,7 +185,8 @@ streamlit run app.py
 
 ## 🖥️ Application Preview
 
-<img width="1287" height="867" alt="Home_screen" src="https://github.com/user-attachments/assets/cbf3cd3a-009f-4280-8e47-d43775b41836" />
+<img width="1000" height="815" alt="Home_screen" src="https://github.com/user-attachments/assets/4728cec1-93ab-445b-a31c-163fc9f9e78d" />
+
 
 
 ### Input Screen
