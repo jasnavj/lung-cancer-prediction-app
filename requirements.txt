@@ -1,0 +1,4 @@
+streamlit
+pillow
+pymysql
+scikit-learn
