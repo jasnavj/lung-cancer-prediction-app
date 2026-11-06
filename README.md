@@ -1,14 +1,14 @@
-# 🫁 Lung Cancer Prediction App
+# Lung Cancer Prediction App
 
 A Machine Learning web application that predicts whether a patient is classified as a lung cancer patient based on selected input features.
 
 The application is built using **Python, KNN, Scikit-learn, Streamlit, and MySQL**.
 
-> ⚠️ **Disclaimer:** This project is created for educational and portfolio purposes only. It is not intended to provide medical diagnosis or clinical advice.
+> **Disclaimer:** This project is created for educational and portfolio purposes only. It is not intended to provide medical diagnosis or clinical advice.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The **Lung Cancer Prediction App** combines Machine Learning, web application development, and database management into a single end-to-end project.
 
@@ -18,7 +18,7 @@ The prediction details are then stored in a MySQL database as prediction history
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Python**
 * **Scikit-learn**
@@ -31,7 +31,7 @@ The prediction details are then stored in a MySQL database as prediction history
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 ```text
 User Input
@@ -51,7 +51,7 @@ Store Prediction in MySQL
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 * Interactive Streamlit user interface
 * Patient input fields
@@ -64,7 +64,7 @@ Store Prediction in MySQL
 
 ---
 
-## 📊 Input Features
+## Input Features
 
 The application currently uses the following features:
 
@@ -77,7 +77,7 @@ The application currently uses the following features:
 
 ---
 
-## 🧠 Machine Learning Model
+## Machine Learning Model
 
 The application uses the **K-Nearest Neighbors (KNN)** classification algorithm.
 
@@ -92,7 +92,7 @@ knn_scaler.sav
 
 ---
 
-## 🗄️ Database Integration
+## Database Integration
 
 The application stores prediction history in a MySQL database.
 
@@ -114,7 +114,7 @@ The database credentials are stored separately using Streamlit secrets rather th
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 lung-cancer-prediction-app/
@@ -135,7 +135,7 @@ lung-cancer-prediction-app/
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ### 1. Clone the repository
 
@@ -183,7 +183,7 @@ streamlit run app.py
 
 ---
 
-## 🖥️ Application Preview
+## Application Preview
 
 <img width="1000" height="815" alt="Home_screen" src="https://github.com/user-attachments/assets/4728cec1-93ab-445b-a31c-163fc9f9e78d" />
 
@@ -200,7 +200,7 @@ streamlit run app.py
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 Through this project, I gained practical experience in:
 
