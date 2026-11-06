@@ -214,7 +214,7 @@ Through this project, I gained practical experience in:
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Jasna V J**
 
